@@ -1,0 +1,7 @@
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\bin\Debug\AccessModifier.exe.config
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\bin\Debug\AccessModifier.exe
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\bin\Debug\AccessModifier.pdb
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\obj\Debug\AccessModifier.csproj.AssemblyReference.cache
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\obj\Debug\AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\obj\Debug\AccessModifier.exe
+C:\Users\Noman\source\repos\AccessModifier\AccessModifier\obj\Debug\AccessModifier.pdb
