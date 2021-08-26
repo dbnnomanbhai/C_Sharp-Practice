@@ -1,0 +1,7 @@
+C:\Users\Noman\source\repos\Array\Array\bin\Debug\Array.exe.config
+C:\Users\Noman\source\repos\Array\Array\bin\Debug\Array.exe
+C:\Users\Noman\source\repos\Array\Array\bin\Debug\Array.pdb
+C:\Users\Noman\source\repos\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\Noman\source\repos\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\Array\Array\obj\Debug\Array.exe
+C:\Users\Noman\source\repos\Array\Array\obj\Debug\Array.pdb
