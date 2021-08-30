@@ -1,0 +1,7 @@
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\bin\Debug\ConsitionalStatement.exe.config
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\bin\Debug\ConsitionalStatement.exe
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\bin\Debug\ConsitionalStatement.pdb
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\obj\Debug\ConsitionalStatement.csproj.AssemblyReference.cache
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\obj\Debug\ConsitionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\obj\Debug\ConsitionalStatement.exe
+C:\Users\Noman\source\repos\ConsitionalStatement\ConsitionalStatement\obj\Debug\ConsitionalStatement.pdb
