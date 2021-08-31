@@ -1,0 +1,7 @@
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\bin\Debug\Method.exe.config
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\bin\Debug\Method.exe
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\bin\Debug\Method.pdb
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\obj\Debug\Method.exe
+F:\C# PRACTICE\C_Sharp-Practice\Method\Method\obj\Debug\Method.pdb
