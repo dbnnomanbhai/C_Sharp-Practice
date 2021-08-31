@@ -1,0 +1,7 @@
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\bin\Debug\StackQueueDictionary.exe.config
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\bin\Debug\StackQueueDictionary.exe
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\bin\Debug\StackQueueDictionary.pdb
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\obj\Debug\StackQueueDictionary.csproj.AssemblyReference.cache
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\obj\Debug\StackQueueDictionary.csproj.CoreCompileInputs.cache
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\obj\Debug\StackQueueDictionary.exe
+F:\C# PRACTICE\C_Sharp-Practice\StackQueueDictionary\StackQueueDictionary\obj\Debug\StackQueueDictionary.pdb
