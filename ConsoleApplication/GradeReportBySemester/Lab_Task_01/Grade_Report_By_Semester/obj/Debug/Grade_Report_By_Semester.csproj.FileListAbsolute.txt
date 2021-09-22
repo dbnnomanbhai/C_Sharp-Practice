@@ -1,0 +1,7 @@
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\bin\Debug\Grade_Report_By_Semester.exe.config
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\bin\Debug\Grade_Report_By_Semester.exe
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\bin\Debug\Grade_Report_By_Semester.pdb
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\obj\Debug\Grade_Report_By_Semester.csproj.AssemblyReference.cache
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\obj\Debug\Grade_Report_By_Semester.csproj.CoreCompileInputs.cache
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\obj\Debug\Grade_Report_By_Semester.exe
+F:\oop2 class task\Lab_Task_01\Grade_Report_By_Semester\obj\Debug\Grade_Report_By_Semester.pdb
