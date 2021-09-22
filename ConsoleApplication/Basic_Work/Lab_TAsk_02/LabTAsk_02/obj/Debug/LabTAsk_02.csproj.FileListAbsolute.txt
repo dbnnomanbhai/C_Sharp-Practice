@@ -1,0 +1,7 @@
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\bin\Debug\LabTAsk_02.exe.config
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\bin\Debug\LabTAsk_02.exe
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\bin\Debug\LabTAsk_02.pdb
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\obj\Debug\LabTAsk_02.csproj.AssemblyReference.cache
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\obj\Debug\LabTAsk_02.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\obj\Debug\LabTAsk_02.exe
+C:\Users\Noman\source\repos\LabTAsk_02\LabTAsk_02\obj\Debug\LabTAsk_02.pdb
