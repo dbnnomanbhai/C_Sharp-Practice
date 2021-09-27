@@ -1,0 +1,6 @@
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Triangle\bin\Debug\Triangle.exe.config
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Triangle\bin\Debug\Triangle.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Triangle\bin\Debug\Triangle.pdb
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Triangle\obj\Debug\Triangle.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Triangle\obj\Debug\Triangle.pdb

@@ -1,0 +1,7 @@
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\bin\Debug\Task_01.exe.config
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\bin\Debug\Task_01.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\bin\Debug\Task_01.pdb
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\obj\Debug\Task_01.csproj.AssemblyReference.cache
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\obj\Debug\Task_01.csproj.CoreCompileInputs.cache
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\obj\Debug\Task_01.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Task_01\obj\Debug\Task_01.pdb

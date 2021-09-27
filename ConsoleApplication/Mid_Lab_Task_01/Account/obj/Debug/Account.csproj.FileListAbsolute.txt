@@ -1,0 +1,6 @@
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Account\bin\Debug\Account.exe.config
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Account\bin\Debug\Account.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Account\bin\Debug\Account.pdb
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Account\obj\Debug\Account.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Account\obj\Debug\Account.pdb

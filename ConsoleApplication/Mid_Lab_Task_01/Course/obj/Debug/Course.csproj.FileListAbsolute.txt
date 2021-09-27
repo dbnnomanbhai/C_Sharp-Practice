@@ -1,0 +1,7 @@
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\bin\Debug\Course.exe.config
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\bin\Debug\Course.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\bin\Debug\Course.pdb
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\obj\Debug\Course.exe
+F:\C# PRACTICE\C_Sharp-Practice\Task_01\Course\obj\Debug\Course.pdb
